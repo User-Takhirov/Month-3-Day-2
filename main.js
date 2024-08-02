@@ -51,7 +51,6 @@
 //   console.log(false);
 // }
 
-
 // just va toq sonlar 1 dan 100 gacha
 // let random = Math.round(Math.random() * 100);
 // if (random % 2 == 0) {
@@ -59,9 +58,6 @@
 // } else {
 //   console.log(random, "toq son");
 // }
-
-
-
 
 // uy ishi
 
@@ -81,3 +77,22 @@
 // } else {
 //   console.log("Alisher, ozgina sabr qilish kerak bo’lar ekan");
 // }
+
+// qoshimcha
+// let masofa = prompt("masofani kiriting");
+// let plane = 800;
+// let car = 80;
+// let velo = 20;
+// let person = 5;
+
+// let vaqt1 = masofa / plane;
+// console.log("plane", vaqt1);
+
+// let vaqt2 = masofa / car;
+// console.log("car",vaqt2);
+
+// let vaqt3 = masofa / velo;
+// console.log("velo", vaqt3);
+
+// let vaqt4 = masofa / person;
+// console.log("person", vaqt4);
